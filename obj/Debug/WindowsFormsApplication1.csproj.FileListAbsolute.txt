@@ -1,0 +1,42 @@
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Constraints.resources
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Time.resources
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Retail.resources
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Physical.resources
+C:\Users\severna\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Summary.resources
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Constraints.resources
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Physical.resources
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Retail.resources
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Summary.resources
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Time.resources
+C:\Users\severna\Desktop\NG Smart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Constraints.resources
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Physical.resources
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Retail.resources
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Summary.resources
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Time.resources
+C:\Users\severna\Desktop\NG Smart - Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
